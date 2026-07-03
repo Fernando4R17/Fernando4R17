@@ -1,4 +1,4 @@
-# Hola 👋, soy Fernando Alvarez
+# Hola, soy Fernando Alvarez
 
 **Ingeniero de Software · Desarrollador Fullstack**
 
@@ -22,12 +22,9 @@ Como proyecto personal estoy construyendo un **sistema POS multitenant** con Nes
 
 **Bases de datos:** PostgreSQL · MySQL · MongoDB · Redis
 
-**DevOps:** Docker · CI/CD con GitHub Actions · MQTT
+**DevOps:** Docker · CI/CD con GitHub Actions 
 
 ## 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/fernando--alvarez/) · luisfar30@gmail.com
 
----
-
-🏆 3.er lugar nacional — NASA International Space Apps Challenge 2023
